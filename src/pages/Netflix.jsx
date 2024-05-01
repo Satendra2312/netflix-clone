@@ -57,8 +57,8 @@ background-color:black;
    }
    .logo{
     img{
-        width;100%;
         height:100%;
+        width:100%;
         margin-left:5rem;
     }
    }
